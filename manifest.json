@@ -1,0 +1,74 @@
+[
+  {
+    "taxi_type": "yellow",
+    "year": "2025",
+    "month": "01",
+    "is_active": true
+  },
+  {
+    "taxi_type": "green",
+    "year": "2025",
+    "month": "01",
+    "is_active": true
+  },
+  {
+    "taxi_type": "yellow",
+    "year": "2025",
+    "month": "02",
+    "is_active": true
+  },
+  {
+    "taxi_type": "green",
+    "year": "2025",
+    "month": "02",
+    "is_active": true
+  },
+    {
+    "taxi_type": "yellow",
+    "year": "2025",
+    "month": "03",
+    "is_active": true
+  },
+  {
+    "taxi_type": "green",
+    "year": "2025",
+    "month": "03",
+    "is_active": true
+  },
+  {
+    "taxi_type": "yellow",
+    "year": "2025",
+    "month": "04",
+    "is_active": true
+  },
+  {
+    "taxi_type": "green",
+    "year": "2025",
+    "month": "04",
+    "is_active": true
+  },
+    {
+    "taxi_type": "yellow",
+    "year": "2025",
+    "month": "05",
+    "is_active": true
+  },
+  {
+    "taxi_type": "green",
+    "year": "2025",
+    "month": "05",
+    "is_active": true
+  },
+  {
+    "taxi_type": "yellow",
+    "year": "2025",
+    "month": "06",
+    "is_active": true
+  },
+  {
+    "taxi_type": "green",
+    "year": "2025",
+    "month": "06",
+    "is_active": true
+  }
+]
