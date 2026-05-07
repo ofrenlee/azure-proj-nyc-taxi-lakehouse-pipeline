@@ -14,3 +14,7 @@ Source/API → Azure Data Factory → ADLS Gen2 Raw Zone → Databricks Transfor
 - Build Delta Lake serving tables
 - Apply basic security, validation, and monitoring concepts
 - Document the pipeline like a production-ready data platform project
+
+## Links
+
+NYC Taxi: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
